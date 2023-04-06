@@ -2,9 +2,9 @@
 This is a simple Android app that allows users to search for GitHub repositories using the GitHub open API. The app uses the MVVM architecture, Jetpack Compose for UI creation, Retrofit for RESTful API calling, and Hilt for dependency injection. It targets Android OS version 33.
 
 ## ScreenShots
-<img src="https://github.com/prashant17d97/OpenAPI/blob/main/Screenshot_20230406-172557%5B1%5D.png" alt="Image" width="200" height="350">
+<img src="https://github.com/prashant17d97/ImageFolder/blob/main/Images/Screenshot_20230406-172557.png" alt="Image" width="200" height="350">
 
-<img src="https://github.com/prashant17d97/OpenAPI/blob/main/image_with_item.png" alt="Image" width="200" height="350">
+<img src="https://github.com/prashant17d97/ImageFolder/blob/main/Images/Screenshot_20230406-172624.png" alt="Image" width="200" height="350">
 
 
 ## Features
