@@ -33,7 +33,7 @@ To run this app on your local machine, follow these steps:
 4. If no search results are found, the app will display a message saying "Nothing available to show"
 
 ## Architecture
-- This app uses the MVVM (Model-View-ViewModel) architecture to separate concerns and ensure testability. The app's architecture includes the following components:
+This app uses the MVVM (Model-View-ViewModel) architecture to separate concerns and ensure testability. The app's architecture includes the following components:
 
 - View: This layer represents the UI of the app and is implemented using Jetpack Compose.
 - ViewModel: This layer provides data to the UI and contains the app's business logic. It interacts with the repository to get data and updates the UI accordingly.
