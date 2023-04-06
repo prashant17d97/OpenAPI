@@ -3,8 +3,8 @@ This is a simple Android app that allows users to search for GitHub repositories
 
 ## ScreenShots
 
-![Image](https://user-images.githubusercontent.com/84988691/230418101-6ad6e3d7-5eff-4ad2-8bdb-211b962cd45d.png)
-![Image](https://user-images.githubusercontent.com/84988691/230418123-7e43f63e-cdb8-4f47-bcdd-8e2dc935c86f.png)
+<img src="https://user-images.githubusercontent.com/84988691/230418123-7e43f63e-cdb8-4f47-bcdd-8e2dc935c86f.png" width="250" height="450">
+<img src="https://user-images.githubusercontent.com/84988691/230418101-6ad6e3d7-5eff-4ad2-8bdb-211b962cd45d.png" width="250" height="450">
 
 ## Features
 - Search for GitHub repositories using keywords
