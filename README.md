@@ -3,7 +3,7 @@ This is a simple Android app that allows users to search for GitHub repositories
 
 ## ScreenShots
 ![Home Screen](https://drive.google.com/file/d/1VHxzpVZBnL_hOLvmagrdY06QA4Ex-Mo4/view?usp=share_link)
-![Home Screen with items](https://drive.google.com/file/d/16q4Ow-bAHztSUUzAaGMWokMdSQ2VTwuG/view?usp=share_link)
+![Home Screen with items](https://github.com/prashant17d97/OpenAPI/blob/main/image_with_item.png)
 
 ## Features
 - Search for GitHub repositories using keywords
