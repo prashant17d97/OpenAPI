@@ -48,3 +48,4 @@ This app uses the following dependencies:
 - Retrofit: A type-safe HTTP client for Android and Java
 - Gson: A JSON parsing library for Kotlin and Java
 - Jetpack Compose: A modern UI toolkit for Android
+- ViewModel: This provides data to the UI and contains the app's business logic. 
