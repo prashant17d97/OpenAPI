@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OpenAPI</string>
+    <string name="your_device_offline">You\'re offline!</string>
+    <string name="someError">Some error occurred!</string>
+    <string name="name">"Name:"</string>
+    <string name="stars">"Stars:"</string>
+    <string name="watchers">"Watchers:"</string>
+    <string name="score">"Score:"</string>
+    <string name="created_at">Created At:</string>
+    <string name="updated_at">Updated At:</string>
+</resources>
